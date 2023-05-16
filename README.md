@@ -1,2 +1,2 @@
 # grocery
-https://bhuvanesh-maligai-kadai.netlify.app/
+Host:https://bhuvanesh-maligai-kadai.netlify.app/
